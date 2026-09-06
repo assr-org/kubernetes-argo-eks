@@ -5,7 +5,7 @@ metadata:
   labels:
     app: kubernetes-argo-eks
 spec:
-  replicas: 1
+  replicas: 0
   selector:
     matchLabels:
       app: kubernetes-argo-eks
