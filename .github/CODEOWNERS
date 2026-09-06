@@ -1,0 +1,8 @@
+# Default owners for the repository
+* @ajaychinthapalli
+
+# Kubernetes manifests
+/k8s/ @ajaychinthapalli
+
+# Application source
+/src/ @ajaychinthapalli
